@@ -26,4 +26,4 @@ An interactive incremental clicker game created with JavaScript. Users click on 
 ## Links
 
 - **GitHub Repository**: [https://github.com/C1leo/final--project/tree/main]
-- **Live Site**: [Visit My Portfolio](https://yourusername.github.io/final-project-portfolio/)
+- **Live Site**: [Visit My Portfolio](https://c1leo.github.io/final--project/)
